@@ -1,2 +1,3 @@
 # OpenPHIGS
-PHIGS Code r381 Trunk
+PHIGS Code r381 Trunk.
+
